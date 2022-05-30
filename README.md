@@ -6,7 +6,7 @@
 * Serazum Marjan  [2018010]
 * Nouran Ahmad Elmughrabi  [1916440]
 
-1. INTRODUCTION
+***Introduction & Objectives***
 
 As the need and popularity of coffee businesses is growing fast, for our project proposal we intended to develop an application which allows users to have the opportunity to reserve for coffee seat due to many people intent to find a cool and silent place where they have their own space in doing their task at any time. Premium coffee shop offers the most relaxing and best experience while using our application and enjoy drinking our coffee. Our main objective is to ensure that our customers have a great time and experience while using our application.
 
@@ -26,4 +26,12 @@ First before they proceed to reserve their table and orders the user has to be o
 - CRUD operation done in the application where we use functions or methods to do operations such as adding, deleting and updating.
 - User authentication 
 - Responsive web design where our application can be used in any platform.
+
+***MVC***
+
+![mvc1](https://user-images.githubusercontent.com/93330469/170915326-b9ad9d3e-c61c-4169-8cbe-a5312cff8d7d.png)
+![mvc2](https://user-images.githubusercontent.com/93330469/170915341-e18e5cc4-6611-4af9-9332-a0c7505ed59e.png)
+
+***ERD Diagram***
+![ERD Diagram](https://user-images.githubusercontent.com/93330469/170915369-5868a68b-9057-4479-ae10-63ae5667b4aa.png)
 
