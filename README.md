@@ -12,3 +12,18 @@ As the need and popularity of coffee businesses is growing fast, for our project
 
 First before they proceed to reserve their table and orders the user has to be one of our member meaning they undergo registration and then they can log in into their account and have their reservation, while they are undergoing registration our users have to give full details on the required fields to be filled up like name, email and phone number. Premium coffee shop is a free source web application where its usage and navigation is simple anyone can have access to it. Mainly our application comes up with a various features and functionalities , below we listed them down :
 
+***Application features :***
+
+- Flexible navigation. 
+- Colorful HD graphics and images  designed to resemble our menus.
+- Icons used  to represent different objects to make our website more interactive.
+- Beautiful typography to catch the eyes of our users.
+- Different color schemes applied on texts.
+
+***Application functionality :***
+
+- Index page : index page  is the main page of our web application where it links to other pages and it contains the header, footer and contents.
+- CRUD operation done in the application where we use functions or methods to do operations such as adding, deleting and updating.
+- User authentication 
+- Responsive web design where our application can be used in any platform.
+
