@@ -30,7 +30,11 @@ First before they proceed to reserve their table and orders the user has to be o
 ***MVC***
 
 ![mvc1](https://user-images.githubusercontent.com/93330469/170915326-b9ad9d3e-c61c-4169-8cbe-a5312cff8d7d.png)
+
+
 ![mvc2](https://user-images.githubusercontent.com/93330469/170915341-e18e5cc4-6611-4af9-9332-a0c7505ed59e.png)
+
+
 
 ***ERD Diagram***
 ![ERD Diagram](https://user-images.githubusercontent.com/93330469/170915369-5868a68b-9057-4479-ae10-63ae5667b4aa.png)
