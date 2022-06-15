@@ -45,14 +45,18 @@ First before they proceed to reserve their table and orders the user has to be o
 
 
 <div align="center">
+  
 ![erd](https://user-images.githubusercontent.com/93330469/173889347-6f6874b8-eb1f-4892-9c3e-4a443cffa46d.png)
+  
 </div>
 
 
 ## ***Sequence Diagram***
 
 <div align="center">
+  
 ![sd](https://user-images.githubusercontent.com/93330469/173889793-2e105d61-0f03-4b55-bb6c-1b1914d38cf9.png)
+  
 </div>
 
 -----------------------
