@@ -35,10 +35,11 @@ First before they proceed to reserve their table and orders the user has to be o
 
 ## ***MVC***
 
+<div align="center">
 
+![mvc](https://user-images.githubusercontent.com/93330469/173891932-a60664db-d8d5-441a-a71c-07978b6feee0.png)
 
-
-
+</div>
 
 
 ## ***ERD Diagram***
