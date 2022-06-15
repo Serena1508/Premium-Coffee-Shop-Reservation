@@ -40,7 +40,8 @@ First before they proceed to reserve their table and orders the user has to be o
 ***ERD Diagram***
 
 
-![ERD Diagram](https://user-images.githubusercontent.com/93330469/170915369-5868a68b-9057-4479-ae10-63ae5667b4aa.png)
+![erd](https://user-images.githubusercontent.com/93330469/173738659-d3a5adc3-9c7e-48ba-ab39-fb885ad3938f.png)
+
 
 
 
