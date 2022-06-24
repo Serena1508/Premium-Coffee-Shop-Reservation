@@ -63,13 +63,21 @@ First before they proceed to reserve their table and orders the user has to be o
 -----------------------
 
 ## ***User Interfaces***
-####Login
+Login
 
 <div align="center">
   
 ![Capture7](https://user-images.githubusercontent.com/93330469/175452570-bfa4a883-aa94-4326-8273-82d86260c9ea.JPG)
   
 </div>
+
+Register
+
+<div align="center">
+  
+  ![Capture8](https://user-images.githubusercontent.com/93330469/175452734-95ea5d8a-612e-4a79-b0cf-ea5ab5f10887.JPG)
+
+  </div>
 
 
 -------------------------
