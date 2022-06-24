@@ -46,9 +46,9 @@ First before they proceed to reserve their table and orders the user has to be o
 
 
 <div align="center">
-  
-![erd](https://user-images.githubusercontent.com/93330469/173889347-6f6874b8-eb1f-4892-9c3e-4a443cffa46d.png)
-  
+
+  ![erd new](https://user-images.githubusercontent.com/93330469/175465536-ba217d0c-9655-4395-876f-5f9d68210ab4.png)
+
 </div>
 
 
