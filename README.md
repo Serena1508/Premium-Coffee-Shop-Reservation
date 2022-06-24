@@ -37,7 +37,8 @@ First before they proceed to reserve their table and orders the user has to be o
 
 <div align="center">
 
-![mvc](https://user-images.githubusercontent.com/93330469/173891932-a60664db-d8d5-441a-a71c-07978b6feee0.png)
+![mvc new](https://user-images.githubusercontent.com/93330469/175466801-7c2573a3-671c-478c-9edd-ae8a3efbe961.png)
+
 
 </div>
 
