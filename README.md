@@ -26,7 +26,7 @@ First before they proceed to reserve their table and orders the user has to be o
 
 ### **Application Functionality**
 
-- Master.blade.php : is the main page of our web application where it links to other pages and it contains the header, footer and contents.
+- app.blade.php : is the main page of our web application where it links to other pages and it contains the header, footer and contents.
 - CRUD operation done in the application where we use functions or methods to do operations such as adding, deleting and updating.
 - User authentication 
 - Responsive web design where our application can be used in any platform.
